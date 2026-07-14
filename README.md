@@ -22,6 +22,7 @@ GitHub: [@simohowaanaa](https://github.com/simohowaanaa)
 | 3 | Port Scan Activity | Network Forensics | Easy | [Read](./Port-Scan-Activity/README.md) |
 | 4 | Http Basic Auth. | Network Forensics | Easy | [Read](./Http-Basic-Auth/README.md) |
 | 5 | PowerShell Script | Malware Analysis | Easy | [Read](./PowerShell-Script/README.md) |
+| 6 | Batch Downloader | Malware Analysis | Easy | [Read](./Batch-Downloader/README.md) |
 
 ---
 
