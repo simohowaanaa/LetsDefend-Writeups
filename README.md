@@ -20,6 +20,7 @@ GitHub: [@simohowaanaa](https://github.com/simohowaanaa)
 | 1 | Phishing Email | Email Analysis / Phishing | Easy | [Read](./Phishing-Email/README.md) |
 | 2 | PCAP Analysis | Network Forensics | Easy | [Read](./PCAP-Analysis/README.md) |
 | 3 | Port Scan Activity | Network Forensics | Easy | [Read](./Port-Scan-Activity/README.md) |
+| 4 | Http Basic Auth. | Network Forensics | Easy | [Read](./Http-Basic-Auth/README.md) |
 
 ---
 
