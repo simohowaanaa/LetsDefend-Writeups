@@ -18,6 +18,7 @@ GitHub: [@simohowaanaa](https://github.com/simohowaanaa)
 | # | Challenge | Category | Difficulty | Writeup |
 |---|-----------|----------|------------|---------|
 | 1 | Phishing Email | Email Analysis / Phishing | Easy | [Read](./Phishing-Email/README.md) |
+| 2 | PCAP Analysis | Network Forensics | Easy | [Read](./PCAP-Analysis/README.md) |
 
 ---
 
