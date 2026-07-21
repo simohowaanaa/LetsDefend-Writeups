@@ -24,6 +24,7 @@ GitHub: [@simohowaanaa](https://github.com/simohowaanaa)
 | 5 | PowerShell Script | Malware Analysis | Easy | [Read](./PowerShell-Script/README.md) |
 | 6 | Batch Downloader | Malware Analysis | Easy | [Read](./Batch-Downloader/README.md) |
 | 7 | NTFS Forensics | DFIR / Disk Forensics | Easy | [Read](./NTFS-Forensics/README.md) |
+| 8 | PDF Analysis | Malware Analysis | Easy | [Read](./PDF-Analysis/README.md) |
 
 ---
 
